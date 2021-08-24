@@ -14,7 +14,7 @@
       width="35"
     />
   </a>
-  <a href="mailto:nmerveb0@gmail.com" target="blank">
+  <a href="mailto:nmerveb@gmail.com" target="blank">
     <img
       src="https://image.flaticon.com/icons/png/512/281/281769.png"
       alt="merve"

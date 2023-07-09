@@ -14,9 +14,10 @@
 
 <b> Connect with me</b>
 <br><br>
-- <a href="https://www.linkedin.com/in/nmervebacak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mervebacak" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/nmervebacak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mervebacak" height="30" width="40" /></a>
 
 
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=nmerveb@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" /></a>
 
 
 
